@@ -1,0 +1,22 @@
+body{
+    background-color: #2C2A59;
+    color: #F7A958;
+}
+
+h1{
+    color: #C35D34;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div{
+    background-color: #483F59;
+    padding: 25px;
+    font-size: 20px;
+    margin: 10px;
+    border-radius: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img{        
+    
+}   
